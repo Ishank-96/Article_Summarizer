@@ -1,1 +1,1 @@
-A summarizer that summarizes any article
+ConciseReads, an article summarizer that summarizes lenghty articles into concise summaries
