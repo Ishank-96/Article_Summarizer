@@ -1,1 +1,1 @@
-ConciseReads, an article summarizer that summarizes lenghty articles into concise summaries
+ConciseReads, an article summarizer that transforms lenghty articles into concise summaries
